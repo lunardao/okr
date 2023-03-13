@@ -11,7 +11,7 @@ Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 3rd (if not defined othe
 |**LAUNCH LUNARDAO SUCCESSFULLY by April 3rd** |
 |  |
 | **KEY RESULTS** |
-| 1. Bring LunarDAO to the world: 2000k followers (by Genesis event start) or 700 Squad members (by the end of the round)  |
+| 1. Bring LunarDAO to the world: 2000k followers (by Genesis event start) or 200 Squad members (by the end of the round)  |
 | 2. Public announcement of a privacy investment proposal |
 | 3. LunarDAO launches & treasury raised 7000 ETH | 
 
