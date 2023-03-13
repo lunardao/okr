@@ -20,13 +20,13 @@ Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 3rd (if not defined othe
 
 | **Objectives**                                                                                                 | **Key Results**      | **Evaluation**     |
 |----------------------------------------------------------------------------------------------------------------|----------------------|----------------|
-| **Bring LunarDAO to the world: 2000k followers (by end of March) or 200 Squad members (by the end of the round)**  | 1. Host 3 Lunarpunk Future spaces |  |
-|                                                                                                                | 2. Engage in 2 outside hosted twitterspaces | |
-|                                                                                                                | 3. 4 posts based on the content of relevant influencers (1/week) | |
-|                                                                                                                | 4. 1 media publication on LunarDAO  | |
-|                                                                                                                | 5. 2 Lunarpunk View Articles | |   
-|                                                                                                                | 6. 4 updates for lunarpunk narrative (1/week) | |
-|                                                                                                                | 7. 4 community engagement posts (1/week) |  |
+| **Bring LunarDAO to the world: 2000k followers (by end of March) or 200 Squad members (by the end of the round)**  | 1. Host 3 lunarpunk future spaces w/ 30+ participants each |  |
+|                                                                                                                | 2. Engage in 2 outside hosted twitterspaces w/ 50+ participants | |
+|                                                                                                                | 3. 4 posts based on the content of relevant influencers (1/week) w/ 60+ likes each | |
+|                                                                                                                | 4. 1 media publication on LunarDAO w/ 100k+ aggreaged views across accounts   | |
+|                                                                                                                | 5. 2 Lunarpunk View Articles w/ 2k+ views each on twitter      | |   
+|                                                                                                                | 6. 4 updates for lunarpunk narrative (1/week) w/ 2k views each   | |
+|                                                                                                                | 7. 4 community engagement posts (1/week) w/ 5 community comments each   |  |
 
 ## DAO Architecture Realization & Research
 
