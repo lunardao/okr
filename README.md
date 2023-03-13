@@ -43,10 +43,10 @@ Develop a base of resources and guides so that everyone no matter their knowledg
 
 | **Objective**                                 | **Improve privacy literacy**                    | **Evaluation** |
 |-------------------------------------------------------|------------------------------------------------|----------------|
-|**Guide: Safer OS**                                    | 1. Guide: how to use/install Tails             |          |
-|**Use of cryptocurrencies**                                 | 1. Guide: Crypto2Fiat                          |          |
-|                                                       | 2. Monero tools: tails Cli   |          |  |                                                       |                                |                |
-|**Hardware securing**                                      | 1. LUKS disk encryption                        |          |
+|                                   | 1. Guide: Safer OS              |          |
+|                                 | 2. Guide: Crypto anon withdrawal                          |          |
+|                                                       | 3. Securing hardware   |          |  |                                                       |                                |                |
+|
 
 
 ## Core-Team Growth
