@@ -43,10 +43,10 @@ Develop a base of resources and guides so that everyone no matter their knowledg
 
 | **Objective**                                 | **Improve privacy literacy**                    | **Evaluation** |
 |-------------------------------------------------------|------------------------------------------------|----------------|
-|Guides: safer os                                    | 1. Guide: how to use/install Tails             | YES/NO         |
-|Use of cryptocurrencies                                 | 1. Guide: Crypto2Fiat                          | YES/NO         |
-|                                                       | 2. Monero tools: tails Cli   | YES/NO         |  |                                                       |                                |                |
-|Hardware securing                                      | 1. LUKS disk encryption                        | YES/NO         |
+|**Guide: Safer OS**                                    | 1. Guide: how to use/install Tails             |          |
+|**Use of cryptocurrencies**                                 | 1. Guide: Crypto2Fiat                          |          |
+|                                                       | 2. Monero tools: tails Cli   |          |  |                                                       |                                |                |
+|**Hardware securing**                                      | 1. LUKS disk encryption                        |          |
 
 
 ## Core-Team Growth
@@ -64,3 +64,5 @@ In Q1 2023, every Steward expands their knowledge on Cypherpunk/Lunarpunk, organ
 3.  Read a book _"Paper Belt on Fire_" (Michael Gibson, proposed to us by a close ally)
 4. Study *"Git Pocket Guide"* (Richard E. Silverman)
 5. Study *"How Linux Works"* (Brian Ward)
+
+
