@@ -41,9 +41,9 @@ Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 3rd (if not defined othe
 
 Develop a base of resources and guides so that everyone no matter their knowledge, experience or skills can improve privacy; use safer os and hardware as well as privacy oriented crypto.
 
-| **Objective**                                 | **Improve privacy literacy**                    | **Evaluation** |
+| **Objective**                                 | **Key Results**                    | **Evaluation** |
 |-------------------------------------------------------|------------------------------------------------|----------------|
-|                                   | 1. Guide: Safer OS              |          |
+|            **Improve privacy literacy**                       | 1. Guide: Safer OS              |          |
 |                                 | 2. Guide: Crypto anon withdrawal                          |          |
 |                                                       | 3. Securing hardware   |          |  |                                                       |                                |                |
 
