@@ -1,7 +1,5 @@
 # Objectives & Key Results - March 2023
 
-*This is a proposal. The final version will be an outcome of the community meeting: Monday, March 13th, 18:00 UTC, [ircd](https://wiki.lunardao.net/ircd.html)*
-
 Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 3rd (if not defined otherwise), measured by the following Key Results:
 
 ## Top Organizational OKRs
