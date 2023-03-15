@@ -46,7 +46,6 @@ Develop a base of resources and guides so that everyone no matter their knowledg
 |                                   | 1. Guide: Safer OS              |          |
 |                                 | 2. Guide: Crypto anon withdrawal                          |          |
 |                                                       | 3. Securing hardware   |          |  |                                                       |                                |                |
-|
 
 
 ## Core-Team Growth
