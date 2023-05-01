@@ -1,6 +1,6 @@
-# Objectives & Key Results - March 2023
+# Objectives & Key Results - March & April 2023
 
-*Note: Based on the community meeting decision, the OKRs were pushed back to March 10th.*
+*Note: Based on the community meeting decision, the OKRs were pushed back to April 30th.*
 
 Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 10th (if not defined otherwise), measured by the following Key Results:
 
@@ -8,7 +8,7 @@ Objective to **LAUNCH LUNARDAO SUCCESSFULLY**, by April 10th (if not defined oth
 
 | **OBJECTIVE** |
 | -------------------------------------|
-|**LAUNCH LUNARDAO SUCCESSFULLY by April 10th** |
+|**LAUNCH LUNARDAO SUCCESSFULLY by April 30th** |
 |  |
 | **KEY RESULTS** |
 | 1. Bring LunarDAO to the world: 2000k followers (by Genesis event start) or 200 Squad members (by the end of the round)  |
